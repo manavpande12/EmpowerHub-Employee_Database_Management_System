@@ -1,10 +1,15 @@
 # EmpowerHub-Employee_Database_Management_System
 
 Requirements:
+
 pip install tkinter
+
 pip install pillow
+
 pip install sqlite3
+
 pip install tkcalender
+
 pip install pandas
 
 Development Tools:
