@@ -13,9 +13,13 @@ pip install tkcalender
 pip install pandas
 
 Development Tools:
+
 1.Python
+
 2.VS Code
+
 Functionality:
+
 1. Add: Enables the insertion of new employee records into the database.
 2. Update: Allows modifications to existing employee details.
 3. Delete: Provides the option to remove specific employee records.
